@@ -1,0 +1,36 @@
+D:\Prog lan\C#\Minimart Management\Minimart Management\bin\Debug\Minimart Management.exe.config
+D:\Prog lan\C#\Minimart Management\Minimart Management\bin\Debug\Minimart Management.exe
+D:\Prog lan\C#\Minimart Management\Minimart Management\bin\Debug\Minimart Management.pdb
+D:\Prog lan\C#\Minimart Management\Minimart Management\bin\Debug\Guna.UI2.dll
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.AssemblyReference.cache
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.SuggestedBindingRedirects.cache
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.LoginForm.resources
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.Properties.Resources.resources
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.GenerateResource.cache
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.CoreCompileInputs.cache
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.CopyComplete
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart Management.exe
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart Management.pdb
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.SplashForm.resources
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.ProductForm.resources
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.CategoryForm.resources
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.SellerForm.resources
+D:\Prog lan\C#\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.SellingForm.resources
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\bin\Debug\Minimart Management.exe.config
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\bin\Debug\Minimart Management.exe
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\bin\Debug\Minimart Management.pdb
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\bin\Debug\Guna.UI2.dll
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.AssemblyReference.cache
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.SuggestedBindingRedirects.cache
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.CategoryForm.resources
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.LoginForm.resources
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.ProductForm.resources
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.Properties.Resources.resources
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.SellerForm.resources
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.SellingForm.resources
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\obj\Debug\Minimart_Management.SplashForm.resources
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.GenerateResource.cache
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.CoreCompileInputs.cache
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\obj\Debug\Minimart Management.csproj.CopyComplete
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\obj\Debug\Minimart Management.exe
+D:\Prog lan\C#\Minimart Management-responsive\Minimart Management\Minimart Management\obj\Debug\Minimart Management.pdb
